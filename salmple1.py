@@ -1,3 +1,4 @@
+# first we gonna build the 2d ebviroment then we switch to 3d
 import pygame
 from pygame.locals import *
 
